@@ -1,0 +1,5 @@
+C:\Users\RakeshGaur\source\repos\SoapPoc\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\RakeshGaur\source\repos\SoapPoc\ProductService\bin\Debug\ProductService.dll
+C:\Users\RakeshGaur\source\repos\SoapPoc\ProductService\bin\Debug\ProductService.pdb
+C:\Users\RakeshGaur\source\repos\SoapPoc\ProductService\obj\Debug\ProductService.dll
+C:\Users\RakeshGaur\source\repos\SoapPoc\ProductService\obj\Debug\ProductService.pdb

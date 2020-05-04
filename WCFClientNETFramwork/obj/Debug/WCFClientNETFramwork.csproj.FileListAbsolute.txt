@@ -1,0 +1,7 @@
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\bin\Debug\WCFClientNETFramwork.exe.config
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\bin\Debug\WCFClientNETFramwork.exe
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\bin\Debug\WCFClientNETFramwork.pdb
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\obj\Debug\WCFClientNETFramwork.csprojAssemblyReference.cache
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\obj\Debug\WCFClientNETFramwork.csproj.CoreCompileInputs.cache
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\obj\Debug\WCFClientNETFramwork.exe
+C:\Users\RakeshGaur\source\repos\SoapPoc\WCFClientNETFramwork\obj\Debug\WCFClientNETFramwork.pdb
